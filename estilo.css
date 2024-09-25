@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+h1{
+
+    text-align: center;
+    background-color: rgb(253, 239, 248);
+    color: rgb(0, 0, 0);
+    
+}
+nav ul{
+    background-color: rgb(255, 255, 255);
+    width: 100;
+    list-style-type: none;
+    text-align: center;
+
+}
+
+nev li{
+    display: inline-flex;
+
+}
+
+nav a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px;
+    width: 150px;
+
+}
+nav li:hover{
+    background-color: rgb(141, 172, 187);
+
+}
+section{
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+}
+image{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
